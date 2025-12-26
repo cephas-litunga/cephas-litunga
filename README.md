@@ -10,7 +10,7 @@ I enjoy building things that actually work, improving my logic, and exploring ne
 
 🔧 Tech I’m Working With
 
-* Languages: C++, HTML, CSS
+* Languages: C++, HTML, CSS, C#
 
 * Learning Next: Python, JavaScript, SQL
 
