@@ -25,7 +25,8 @@ I enjoy building things that actually work, improving my logic, and exploring ne
 
 * Create clean, efficient, well-structured code
 
-
-
+📧 Contact info
+- Email: cslitunga2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cephas-litunga-simbaya-821322397
 
 Thanks for visiting my profile!
