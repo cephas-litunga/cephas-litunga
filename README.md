@@ -12,7 +12,7 @@ I enjoy building things that actually work, improving my logic, and exploring ne
 
 * Languages: C++, HTML, CSS, C#
 
-* Learning Next: Python, JavaScript, SQL
+* Learning: C, JavaScript, SQL
 
 * Interests: Software Engineering, Systems Programming, Game Dev
 
